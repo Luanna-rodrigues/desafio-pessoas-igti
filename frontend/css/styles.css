@@ -30,6 +30,7 @@ h2 {
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
+  box-shadow: 3px 3px #888888;
 }
 
 .data {
